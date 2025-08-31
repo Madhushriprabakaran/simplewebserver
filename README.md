@@ -76,6 +76,8 @@ httpd.serve_forever()
 
 ![alt text](web_exp1.png)
 
+<img width="1918" height="1198" alt="Screenshot 2025-08-31 213248" src="https://github.com/user-attachments/assets/271de416-825f-425c-b6e8-bd26fca08043" />
+
 
 
 ## RESULT:
